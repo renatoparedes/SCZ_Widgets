@@ -3,7 +3,6 @@ ipympl
 ipyvolume
 scipy
 voila
-pylab
 numpy
 matplotlib
 pandas
