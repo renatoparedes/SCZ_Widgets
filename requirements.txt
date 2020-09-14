@@ -6,3 +6,7 @@ voila
 numpy
 matplotlib
 pandas
+sklearn
+__future__
+ipywidgets 
+IPython.display
