@@ -3,6 +3,7 @@ ipympl
 ipyvolume
 scipy
 voila
+voila-material
 numpy
 matplotlib
 pandas
